@@ -1,1 +1,3 @@
+Zero text
 First text in first file
+Secon text
